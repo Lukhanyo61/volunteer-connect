@@ -1,0 +1,8 @@
+{
+  "name": "VolunteerConnect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "73f07108"
+}
